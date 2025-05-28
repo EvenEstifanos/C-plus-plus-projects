@@ -1,2 +1,2 @@
-# C-
-This for all  of my projects made on the language C++
+# CMSC-140
+Assignments for CMSC-140 @ Montgomery College
